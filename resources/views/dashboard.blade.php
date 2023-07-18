@@ -15,7 +15,7 @@
 </head>
 <body>
     <div class="canvas-container">
-    <canvas id="chart10tahun" width="200" height="200"></canvas>
+    <canvas id="chart10tahun" width="180" height="180"></canvas>
 </div>
 
     <script>

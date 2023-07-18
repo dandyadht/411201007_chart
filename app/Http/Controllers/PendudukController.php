@@ -23,6 +23,7 @@ class PendudukController extends Controller
             // 'nik' => 'required',
             // 'nama' => 'required',
             // 'jenis_kelamin' => 'required',
+            
         ]);
         
     $penduduk = new Penduduk();
